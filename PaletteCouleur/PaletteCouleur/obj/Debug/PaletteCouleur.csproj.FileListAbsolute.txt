@@ -1,0 +1,21 @@
+\\merlin\etudiants\lemairee\documents\visual studio 2012\Projects\PaletteCouleur\PaletteCouleur\bin\Debug\PaletteCouleur.exe.config
+\\merlin\etudiants\lemairee\documents\visual studio 2012\Projects\PaletteCouleur\PaletteCouleur\bin\Debug\PaletteCouleur.exe
+\\merlin\etudiants\lemairee\documents\visual studio 2012\Projects\PaletteCouleur\PaletteCouleur\bin\Debug\PaletteCouleur.pdb
+\\merlin\etudiants\lemairee\documents\visual studio 2012\Projects\PaletteCouleur\PaletteCouleur\obj\Debug\PaletteCouleur.csprojResolveAssemblyReference.cache
+\\merlin\etudiants\lemairee\documents\visual studio 2012\Projects\PaletteCouleur\PaletteCouleur\obj\Debug\PaletteCouleur.Form1.resources
+\\merlin\etudiants\lemairee\documents\visual studio 2012\Projects\PaletteCouleur\PaletteCouleur\obj\Debug\PaletteCouleur.Properties.Resources.resources
+\\merlin\etudiants\lemairee\documents\visual studio 2012\Projects\PaletteCouleur\PaletteCouleur\obj\Debug\PaletteCouleur.csproj.GenerateResource.Cache
+\\merlin\etudiants\lemairee\documents\visual studio 2012\Projects\PaletteCouleur\PaletteCouleur\obj\Debug\PaletteCouleur.exe
+\\merlin\etudiants\lemairee\documents\visual studio 2012\Projects\PaletteCouleur\PaletteCouleur\obj\Debug\PaletteCouleur.pdb
+H:\Tropicolor\PaletteCouleur\PaletteCouleur\bin\Debug\PaletteCouleur.exe.config
+H:\Tropicolor\PaletteCouleur\PaletteCouleur\obj\Debug\PaletteCouleur.exe
+H:\Tropicolor\PaletteCouleur\PaletteCouleur\obj\Debug\PaletteCouleur.pdb
+E:\Tropicolor\PaletteCouleur\PaletteCouleur\bin\Debug\PaletteCouleur.exe.config
+E:\Tropicolor\PaletteCouleur\PaletteCouleur\obj\Debug\PaletteCouleur.exe
+E:\Tropicolor\PaletteCouleur\PaletteCouleur\obj\Debug\PaletteCouleur.pdb
+E:\Tropicolor\PaletteCouleur\PaletteCouleur\bin\Debug\PaletteCouleur.exe
+E:\Tropicolor\PaletteCouleur\PaletteCouleur\bin\Debug\PaletteCouleur.pdb
+E:\Tropicolor\PaletteCouleur\PaletteCouleur\obj\Debug\PaletteCouleur.csprojResolveAssemblyReference.cache
+E:\Tropicolor\PaletteCouleur\PaletteCouleur\obj\Debug\PaletteCouleur.Form1.resources
+E:\Tropicolor\PaletteCouleur\PaletteCouleur\obj\Debug\PaletteCouleur.Properties.Resources.resources
+E:\Tropicolor\PaletteCouleur\PaletteCouleur\obj\Debug\PaletteCouleur.csproj.GenerateResource.Cache

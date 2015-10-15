@@ -1,2 +1,2 @@
-# Tropicano
-Projet M3301
+# Tropicolor
+Powered by Tropicano
